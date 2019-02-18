@@ -1,0 +1,16 @@
+**Fearless runner**
+Fearless runner is an endless runner game that was released on both Android and IOS operation systems. The game is built using Unity engine in a 2D environment relying on pixel art to bring back nostalgic moments.
+
+**Usage**
+Due to certain circumstances, only the game code is available. The art and the music are under a different license and thus could not be open publicly. I am currently in the process of making everything else available publicly.
+
+**Contributing**
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+**License**
+Apache
+
+**Project status**
+The game was initially made to explore the market and understand how everything works in the game development industry. Thus, the game will no longer be updated and if it is to be updated it will be re-written.designed from scratch.
